@@ -1,0 +1,8 @@
+.text-area {
+    resize: none;
+    overflow: hidden;
+}
+
+.text-area .content {
+    -fx-background-color: #dcdcdc ;
+}

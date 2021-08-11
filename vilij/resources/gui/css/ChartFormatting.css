@@ -1,0 +1,61 @@
+.chart {
+    -fx-border-color: black;
+    -fx-border-width: 3;
+}
+
+#average.chart-series-line {
+    -fx-stroke: red;
+    -fx-stroke-width: 50;
+}
+
+.default-color0.chart-series-line {
+    -fx-stroke: red;
+}
+
+.default-color1.chart-series-line {
+    -fx-stroke: orange;
+}
+
+.default-color2.chart-series-line {
+    -fx-stroke: yellow;
+}
+
+.default-color3.chart-series-line {
+    -fx-stroke: green; 
+}
+
+.default-color4.chart-series-line {
+    -fx-stroke: blue;
+}
+
+.default-color5.chart-series-line {
+    -fx-stroke: purple; 
+}
+
+.default-color6.chart-series-line {
+    -fx-stroke: gray;
+}
+
+.default-color7.chart-series-line {
+    -fx-stroke: black;
+}
+
+.default-color8.chart-series-line {
+    -fx-stroke: white;
+}
+
+.axis-tick-mark {
+    -fx-stroke: #000000;
+    -fx-stroke-width: 3; 
+}
+.axis-minor-tick-mark {
+    -fx-stroke: #859656;
+}
+
+.text-area content {
+    overflow: hidden;
+}
+
+.text-area .scroll-bar:vertical:disabled {
+    -fx-opacity: 0;
+}
